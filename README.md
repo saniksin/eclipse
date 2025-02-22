@@ -2,6 +2,11 @@
 
 Софт для прогрева и абуза **Turbo Tap** в сети **Eclipse**.
 
+## 📢 Контакты
+
+- Мой Telegram канал: [@cryptosaniksin](https://t.me/cryptosaniksin)
+- Чат: [@cryptosaniksin_chat](https://t.me/cryptosaniksin_chat)
+
 ## 🐍 Требования
 
 - Python 3.12
