@@ -26,4 +26,4 @@ pip install -r requirements.txt
 ```
 
 ## 🎥 Видеообзор настройки и работы
-[тык](https://www.youtube.com/watch?v=z4T2Ht5SIAg&ab_channel=MoreDavidEaves)
+[тык](https://youtu.be/8felOsLuIug)
